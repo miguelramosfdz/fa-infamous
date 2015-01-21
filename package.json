@@ -14,12 +14,19 @@
     "famo.us",
     "famous",
     "angular",
-    "famous-angular"
+    "famous-angular",
+    "infamous"
   ],
-  "author": "",
+  "authors": [
+    "Joseph Orbegoso Pea <joe@trusktr.io>"
+  ],
   "license": "MPL v2.0",
   "bugs": {
     "url": "https://github.com/infamous/fa-infamous/issues"
   },
-  "homepage": "https://github.com/infamous/fa-infamous"
+  "homepage": "https://github.com/infamous/fa-infamous",
+  "dependencies": {
+    "famous-angular": "^0.4.0-1",
+    "infamous": "0.0.23"
+  }
 }

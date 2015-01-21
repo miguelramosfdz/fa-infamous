@@ -1,0 +1,25 @@
+{
+  "name": "fa-infamous",
+  "version": "0.0.1",
+  "description": "Infamous components for use with famous-angular.",
+  "main": "fa-infamous.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:infamous/fa-infamous.git"
+  },
+  "keywords": [
+    "famo.us",
+    "famous",
+    "angular",
+    "famous-angular"
+  ],
+  "author": "",
+  "license": "MPL v2.0",
+  "bugs": {
+    "url": "https://github.com/infamous/fa-infamous/issues"
+  },
+  "homepage": "https://github.com/infamous/fa-infamous"
+}
